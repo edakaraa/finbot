@@ -8,14 +8,22 @@
   "dependencies": {
     "@huggingface/inference": "^3.8.1",
     "@langchain/openai": "^0.5.6",
+    "@tailwindcss/postcss": "^4.1.4",
     "langchain": "^0.3.23",
     "next": "^15.3.1",
     "openai": "^4.95.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "yahoo-finance2": "^2.13.3",
+    "yfinance": "^0.0.6"
   },
   "devDependencies": {
-    "@types/react": "19.1.2",
-    "typescript": "5.8.3"
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.57",
+    "@types/react-dom": "^18.2.19",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4",
+    "typescript": "^5.3.3"
   }
 }
